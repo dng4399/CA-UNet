@@ -1,2 +1,3 @@
 # CA-UNet
-Lightweight remote sensing image segmentation
+A lightweight remote sensing image segmentation network
+The code will be released publicly at a later time.
